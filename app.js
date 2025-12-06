@@ -1,6 +1,6 @@
 'use strict';
 
-const NICE_EMOJIS = ['🎉', '🎊', '🪩', '🕺🏿', '✨', '🎁', '⭐', '🌟', '💫', '🔥', '😎'];
+const NICE_EMOJIS = ['🎉', '🎊', '🪩', '✨', '🎁', '⭐', '🌟', '💫', '🔥', '😎'];
 const FACE_CROPS = ['crops/crop1.JPG', 'crops/crop2.JPG'];
 
 function basicMarkdownToHtml(md) {
@@ -75,7 +75,7 @@ function createEmojiRain() {
     }
 
     const left = Math.random() * 100;
-    const duration = 4 + Math.random() * 2;
+    const duration = 6 + Math.random() * 3;
     const delay = Math.random() * 0.5;
 
     particle.style.left = left + '%';

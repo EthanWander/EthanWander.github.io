@@ -2,10 +2,10 @@
 
 You're invited to a cozy Hanuka get-together! We'll light candles, spin dreidels, and share good vibes.
 
-**Date:** Saturday, December 16 at 7:00 PM
+**Date:** Thursday, December 18 at 8:00 PM
 
-**Location:** 123 Celebration Lane, Cityville
+**Location:** Onkelos 9, Tel-Aviv
 
-**Bring:** Your favorite snack or drink to share.
+**Bring:** Your favorite snack or booze.
 
 Please RSVP so we can make sure there's enough sufganiyot for everyone.
